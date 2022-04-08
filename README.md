@@ -19,4 +19,3 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
 
 ## 2019
 - Incremental Learning Techniques for Semantic Segmentation [[ICCV Workshop 2019]](https://arxiv.org/abs/1907.13372) [[PyTorch]](https://github.com/LTTM/IL-SemSegm)
-- 
