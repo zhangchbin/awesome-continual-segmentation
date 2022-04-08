@@ -11,4 +11,4 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
 
 
 ## 2020
-- Modeling the Background for Incremental Learning in Semantic Segmentation [CVPR 2020](https://arxiv.org/abs/2002.00718)
+- Modeling the Background for Incremental Learning in Semantic Segmentation [[CVPR 2020]](https://arxiv.org/abs/2002.00718)
