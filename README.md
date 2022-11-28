@@ -17,7 +17,6 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
 - Replay:
   - SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning [[NeurIPS 2021]](https://proceedings.neurips.cc/paper/2021/file/5a9542c773018268fc6271f7afeea969-Paper.pdf) [[PyTorch]](https://github.com/clovaai/SSUL)
   - RECALL: Replay-based Continual Learning in Semantic Segmentation[[ICCV 2021]](https://arxiv.org/abs/2108.03673v1)
-  - 
 
 - No Replay:
   - PLOP: Learning without Forgetting for Continual Semantic Segmentation [[CVPR 2021]](https://arxiv.org/abs/2011.11390) [[PyTorch]](https://github.com/arthurdouillard/CVPR2021_PLOP)
