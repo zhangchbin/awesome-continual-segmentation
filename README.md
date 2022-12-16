@@ -5,6 +5,8 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
 - No Replay:
   - Representation Compensation Networks for Continual Semantic Segmentation [[CVPR 2022]](https://arxiv.org/abs/2203.05402) [[PyTorch]](https://github.com/zhangchbin/RCIL)
   - Incremental Learning in Semantic Segmentation from Image Labels [[CVPR 2022]](https://arxiv.org/pdf/2112.01882.pdf)
+  - Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment [[ECCV 2022]](https://dl.acm.org/doi/10.1007/978-3-031-19818-2_20)
+  - RBC: Rectifying the Biased Context in Continual Semantic Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2203.08404v1.pdf)
   - Self-training for Class-incremental Semantic Segmentation [[TNNLS 2022]](https://arxiv.org/abs/2012.03362) [PyTorch]
   - Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation [[TPAMI 2022]](https://arxiv.org/pdf/2203.14098.pdf) [[PyTorch]]
   - Continual Attentive Fusion for Incremental Learning in Semantic Segmentation[[TMM 2022]](https://arxiv.org/pdf/2202.00432.pdf)
