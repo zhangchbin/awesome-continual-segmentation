@@ -1,6 +1,14 @@
 # awesome-continual-segmentation
 This repo is a collection of AWESOME things about continual semantic segmentation, including papers, code, demos, etc. Feel free to pull request and star.
 
+## 2023
+- Replay:
+  - Continual Semantic Segmentation with Automatic Memory Sample Selection [[CVPR 2023]](https://arxiv.org/pdf/2304.05015)
+- No Replay:
+
+- Others:
+  - Federated Incremental Semantic Segmentation [[CVPR 2023]](https://arxiv.org/pdf/2304.04620)
+
 ## 2022
 - No Replay:
   - Representation Compensation Networks for Continual Semantic Segmentation [[CVPR 2022]](https://arxiv.org/abs/2203.05402) [[PyTorch]](https://github.com/zhangchbin/RCIL)
