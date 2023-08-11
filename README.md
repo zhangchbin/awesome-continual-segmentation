@@ -4,8 +4,10 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
 ## 2023
 - Replay:
   - Continual Semantic Segmentation with Automatic Memory Sample Selection [[CVPR 2023]](https://arxiv.org/pdf/2304.05015)
+  
 - No Replay:
-
+  - Endpoints Weight Fusion for Class Incremental Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)
+    
 - Others:
   - Federated Incremental Semantic Segmentation [[CVPR 2023]](https://arxiv.org/pdf/2304.04620)
 
