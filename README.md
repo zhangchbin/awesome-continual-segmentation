@@ -24,6 +24,7 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
   - Self-training for Class-incremental Semantic Segmentation [[TNNLS 2022]](https://arxiv.org/abs/2012.03362) [PyTorch]
   - Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation [[TPAMI 2022]](https://arxiv.org/pdf/2203.14098.pdf) [[PyTorch]]
   - Continual Attentive Fusion for Incremental Learning in Semantic Segmentation[[TMM 2022]](https://arxiv.org/pdf/2202.00432.pdf)
+  - Decomposed knowledge distillation for class-incremental semantic segmentation [[NeurIPS 2022]](https://proceedings.neurips.cc/paper_files/paper/2022/file/439bf902de1807088d8b731ca20b0777-Paper-Conference.pdf)
 - Replay:
   - ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation [[NeurIPS]](https://arxiv.org/abs/2210.06816)
 
