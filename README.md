@@ -11,6 +11,11 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
   - Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/html/Kalb_Principles_of_Forgetting_in_Domain-Incremental_Semantic_Segmentation_in_Adverse_Weather_CVPR_2023_paper.html)
   - Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
   - Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)
+  - Preparing the Future for Continual Semantic Segmentation [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Preparing_the_Future_for_Continual_Semantic_Segmentation_ICCV_2023_paper.pdf)
+  - Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf)
+  - Continual Segment: Towards a Single, Unified and Non-forgetting Continual Segmentation Model of 143 Whole-body Organs in CT Scans [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Continual_Segment_Towards_a_Single_Unified_and_Non-forgetting_Continual_Segmentation_ICCV_2023_paper.pdf)
+  - CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_CoinSeg_Contrast_Inter-_and_Intra-_Class_Representations_for_Incremental_Segmentation_ICCV_2023_paper.pdf)
+  - 
 
 ## 2022
   - Representation Compensation Networks for Continual Semantic Segmentation [[CVPR 2022]](https://arxiv.org/abs/2203.05402) [[PyTorch]](https://github.com/zhangchbin/RCIL)
