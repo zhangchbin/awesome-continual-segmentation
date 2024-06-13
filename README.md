@@ -27,6 +27,7 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
   - Decomposed knowledge distillation for class-incremental semantic segmentation [[NeurIPS 2022]](https://proceedings.neurips.cc/paper_files/paper/2022/file/439bf902de1807088d8b731ca20b0777-Paper-Conference.pdf)
 - Replay:
   - ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation [[NeurIPS]](https://arxiv.org/abs/2210.06816)
+  - Mining unseen classes via regional 580 objectness: A simple baseline for incremental segmentation [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/file/99b419554537c66bf27e5eb7a74c7de4-Paper-Conference.pdf)
 
 
 
