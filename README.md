@@ -1,6 +1,13 @@
 # awesome-continual-segmentation
 This repo is a collection of AWESOME things about continual semantic segmentation, including papers, code, demos, etc. Feel free to pull request and star.
 
+## 2024
+  - Continual Segmentation with Disentangled Objectness Learning and Class Recognition [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)
+  - Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.pdf)
+
+
+
+
 ## 2023
   - Continual Semantic Segmentation with Automatic Memory Sample Selection [[CVPR 2023]](https://arxiv.org/pdf/2304.05015)
   - Endpoints Weight Fusion for Class Incremental Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)
@@ -15,7 +22,6 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
   - Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf)
   - Continual Segment: Towards a Single, Unified and Non-forgetting Continual Segmentation Model of 143 Whole-body Organs in CT Scans [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Continual_Segment_Towards_a_Single_Unified_and_Non-forgetting_Continual_Segmentation_ICCV_2023_paper.pdf)
   - CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_CoinSeg_Contrast_Inter-_and_Intra-_Class_Representations_for_Incremental_Segmentation_ICCV_2023_paper.pdf)
-  - 
 
 ## 2022
   - Representation Compensation Networks for Continual Semantic Segmentation [[CVPR 2022]](https://arxiv.org/abs/2203.05402) [[PyTorch]](https://github.com/zhangchbin/RCIL)
