@@ -16,6 +16,7 @@ This repo is a collection of AWESOME things about continual semantic segmentatio
   - Federated Incremental Semantic Segmentation [[CVPR 2023]](https://arxiv.org/pdf/2304.04620)
   - Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/html/Kalb_Principles_of_Forgetting_in_Domain-Incremental_Semantic_Segmentation_in_Adverse_Weather_CVPR_2023_paper.html)
   - Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
+  - Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)
 
 ## 2022
 - No Replay:
