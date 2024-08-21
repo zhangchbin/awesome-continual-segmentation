@@ -2,8 +2,12 @@
 This repo is a collection of AWESOME things about continual semantic segmentation, including papers, code, demos, etc. Feel free to pull request and star.
 
 ## 2024
-  - 
+ - Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.14142)
   - Strike a Balance in Continual Panoptic Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.16354)
+  - Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.09047)
+  - Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.09838)
+  - Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation [[ECCV 2024]](https://arxiv.org/pdf/2407.13363)
+  - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images [[ACM MM 2024]](https://arxiv.org/pdf/2407.14242)
   - Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception [[arXiv.2407]](https://arxiv.org/pdf/2407.18145)
   - Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation [[arXiv.2408]](https://arxiv.org/pdf/2408.01356)
   - Continual Segmentation with Disentangled Objectness Learning and Class Recognition [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)
