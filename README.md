@@ -2,6 +2,10 @@
 This repo is a collection of AWESOME things about continual semantic segmentation, including papers, code, demos, etc. Feel free to pull request and star.
 
 ## 2024
+  - 
+  - Strike a Balance in Continual Panoptic Segmentation [[ECCV 2024]] (https://arxiv.org/pdf/2407.16354)
+  - Taxonomy-Aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-World Perception [[arXiv.2407]](https://arxiv.org/pdf/2407.18145)
+  - Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation [[arXiv.2408]](https://arxiv.org/pdf/2408.01356)
   - Continual Segmentation with Disentangled Objectness Learning and Class Recognition [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)
   - Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Incremental_Nuclei_Segmentation_from_Histopathological_Images_via_Future-class_Awareness_and_CVPR_2024_paper.pdf)
 
